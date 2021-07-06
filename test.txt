@@ -2,3 +2,6 @@ my new project done
 happy
 sad
 new
+hello 
+hi
+hhiiii
